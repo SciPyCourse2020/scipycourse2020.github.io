@@ -8,7 +8,7 @@ layout: index
 **LMU Biozentrum, Room ??????**<br>
 **13-15:30, 3 ECTS total**
 
-Taught by [Martin Spacek](http://mspacek.github.io)
+Taught by [Martin Spacek](http://mspacek.github.io) (m dot spacek at lmu dot de)
 
 Class notes and files: <https://github.com/SciPyCourse2020/notes>
 
