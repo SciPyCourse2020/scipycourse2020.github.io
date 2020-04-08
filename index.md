@@ -5,7 +5,7 @@ layout: index
 ---
 
 **12 classes on Tuesdays, April 21 to July 14, 2020, excluding June 16**<br>
-**LMU Biozentrum, Room ??????**<br>
+**LMU Biozentrum, videoconference via Zoom**<br>
 **13-15:30, 3 ECTS total**
 
 Taught by [Martin Spacek](http://mspacek.github.io) (m dot spacek at lmu dot de)
@@ -26,8 +26,7 @@ and code version control with Git will also be covered. Students are expected to
 own laptop. A minimal level of attendance (9/12 classes) and participation is required, and
 minimal homework exercises will be assigned.
 
-This is course no. ???? in the official course
-listing.
+This is course no. 19204 in the [official course listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=780555&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
 
 # Class outline
 
