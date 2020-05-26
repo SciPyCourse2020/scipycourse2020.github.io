@@ -4,7 +4,7 @@ layout: index
 #tagline: page tagline
 ---
 
-**12 classes on Tuesdays, April 21 to July 14, 2020, excluding June 16**<br>
+**12 classes on Tuesdays, April 21 to July 7, 2020**<br>
 **LMU Biozentrum, videoconference via Zoom**<br>
 **13-15:30, 3 ECTS total**
 
